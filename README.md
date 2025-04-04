@@ -51,6 +51,8 @@ Make sure the MySQL server is running and the database atliq_tshirt_new is avail
 5. Run the Streamlit App
 poetry run streamlit run main.py
 
+---
+
 ❓ How It Works
 User inputs a natural language question (e.g., "How many white Levi shirts are in stock?")
 
@@ -73,6 +75,6 @@ The result is returned in plain English
 
 "Which brands have more than 20 items?"
 
-
+---
 
 
