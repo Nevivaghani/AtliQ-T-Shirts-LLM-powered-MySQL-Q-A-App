@@ -79,9 +79,9 @@ The result is returned in plain English
 
 ## Screenshots
 
-![App Screenshot](assets\atliq1.png)
+![App Screenshot](assets/atliq1.png)
 
-![App Screenshot](assets\atliq2.png)
+![App Screenshot](assets/atliq2.png)
 
-![App Screenshot](assets\atliq3.png)
+![App Screenshot](assets/atliq3.png)
 
