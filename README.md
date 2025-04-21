@@ -23,9 +23,10 @@ A conversational AI-powered Streamlit web app built using **LangChain**, **Googl
 - **Environment Management**: `python-dotenv`
 - **Dependency Manager**: Poetry
 
----## ⚙️ Setup Instructions
+---
+## ⚙️ Setup Instructions
 
-### 1. Clone the Repository
+#### 1. Clone the Repository
 
 ```bash
 git clone  https://github.com/Nevivaghani/AtliQ-T-Shirts-LLM-powered-MySQL-Q-A-App.git
@@ -45,9 +46,9 @@ Make sure the MySQL server is running and the database atliq_tshirt_new is avail
 5. Run the Streamlit App
 poetry run streamlit run main.py
 
+```
+
 ---
-
-
 ## Roadmap
 
 - Additional browser support
@@ -69,15 +70,15 @@ The query is executed on the MySQL DB
 
 The result is returned in plain English
 
-
-🧪 Example Questions
+#🧪 Example Questions
 "How many T-shirts are available?"
 
 "What is the average price of Van Huesen T-shirts?"
 
 "Which brands have more than 20 items?"
 
-## Screentshots
+---
+## Screenshots
 
 ![App Screenshot][def]
 
@@ -89,7 +90,9 @@ The result is returned in plain English
 
 [def2]: ./assets/atliq2.png
 
-[def2]: ./assets/atliq3.png
+[def3]: ./assets/atliq3.png
+
+
 
 
 
