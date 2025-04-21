@@ -77,11 +77,19 @@ The result is returned in plain English
 
 "Which brands have more than 20 items?"
 
-## Screenshots
+## Screentshots
 
-![App Screenshot](assets/atliq1.png)
+![App Screenshot][def]
 
-![App Screenshot](assets/atliq2.png)
+![App Screenshot][def2]
 
-![App Screenshot](assets/atliq3.png)
+![App Screenshot][def3]
+
+[def]: ./assets/atliq1.png
+
+[def2]: ./assets/atliq2.png
+
+[def2]: ./assets/atliq3.png
+
+
 
