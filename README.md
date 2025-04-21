@@ -1,7 +1,6 @@
 # 🧠 AtliQ T-Shirts: LLM-powered MySQL Q&A App
 
 A conversational AI-powered Streamlit web app built using **LangChain**, **Google Gemini**, and **MySQL**, allowing users to ask natural language questions about a T-shirt inventory database. The system dynamically generates and executes SQL queries and presents answers in plain English.
-
 ---
 
 ## 🚀 Features
@@ -12,10 +11,7 @@ A conversational AI-powered Streamlit web app built using **LangChain**, **Googl
 - 🧾 Clean UI built with Streamlit
 - 🔐 Environment variables managed via `.env`
 
----
-
-
----
+------
 
 ## 🧠 Tech Stack
 
@@ -27,9 +23,7 @@ A conversational AI-powered Streamlit web app built using **LangChain**, **Googl
 - **Environment Management**: `python-dotenv`
 - **Dependency Manager**: Poetry
 
----
-
-## ⚙️ Setup Instructions
+---## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -53,6 +47,13 @@ poetry run streamlit run main.py
 
 ---
 
+
+## Roadmap
+
+- Additional browser support
+
+- Add more integrations
+
 ❓ How It Works
 User inputs a natural language question (e.g., "How many white Levi shirts are in stock?")
 
@@ -68,13 +69,19 @@ The query is executed on the MySQL DB
 
 The result is returned in plain English
 
-🧪 Example Questions
-"How many red T-shirts are available?"
 
-"What is the average price of Puma shirts?"
+🧪 Example Questions
+"How many T-shirts are available?"
+
+"What is the average price of Van Huesen T-shirts?"
 
 "Which brands have more than 20 items?"
 
----
+## Screenshots
 
+![App Screenshot](assets\atliq1.png)
+
+![App Screenshot](assets\atliq2.png)
+
+![App Screenshot](assets\atliq3.png)
 

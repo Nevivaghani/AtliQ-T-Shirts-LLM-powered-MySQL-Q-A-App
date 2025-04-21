@@ -1,4 +1,4 @@
-from langchain_helper import get_few_shot_db_chain 
+from new_langchain_helper import get_few_shot_db_chain 
 import streamlit as st
 
 st.title("AtliQ T Shirts: Database Q&A")
